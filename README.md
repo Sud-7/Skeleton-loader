@@ -10,7 +10,7 @@ This repository contains a ReactJS application that demonstrates the implementat
 
 ## Demo
 
-You can view a live demo of the application [here](#).
+![](https://github.com/Sud-7/Skeleton-loader/blob/master/gif.gif)
 
 ## Installation
 
