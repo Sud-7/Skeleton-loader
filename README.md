@@ -62,6 +62,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or feedback, feel free to reach out to me at [your-email@example.com].
 
+## Deploying
+
+3...2...1... Here we launch!!
+
 ---
 
 Thank you for checking out this project! I hope you find it helpful.
